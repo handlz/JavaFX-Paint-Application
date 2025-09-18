@@ -38,9 +38,6 @@ This project demonstrates:
 - **Mathematical programming skills** through trigonometry and geometry  
 - Professional code practices with **scalable, maintainable design**  
 
-## 📸 Demo
-*(Add screenshots or GIFs of your paint app here)*
-
 ## 📖 How to Run
 1. Clone this repository  
    ```bash
